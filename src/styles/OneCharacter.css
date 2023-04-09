@@ -1,0 +1,9 @@
+.basicBtn{
+    width: 150px;
+    height: 50px;
+    margin: 20px;
+    border-radius: 5px;
+    background-color: #8498d6;
+    color: #ffffff;
+    border: none;
+}
